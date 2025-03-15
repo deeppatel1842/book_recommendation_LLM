@@ -1,0 +1,1101 @@
+,actual_categories,predicted_categories
+0,Fiction,Fiction
+1,Fiction,Drama
+2,Fiction,Drama
+3,Fiction,Drama
+4,Fiction,Drama
+5,Fiction,Drama
+6,Fiction,History
+7,Fiction,Fiction
+8,Fiction,Fiction
+9,Fiction,Drama
+10,Fiction,Drama
+11,Fiction,Drama
+12,Fiction,Biography & Autobiography
+13,Fiction,Drama
+14,Fiction,Fiction
+15,Fiction,Fiction
+16,Fiction,Fiction
+17,Fiction,Fiction
+18,Fiction,Fiction
+19,Fiction,Drama
+20,Fiction,Drama
+21,Fiction,History
+22,Fiction,Drama
+23,Fiction,Fiction
+24,Fiction,Drama
+25,Fiction,History
+26,Fiction,Fiction
+27,Fiction,History
+28,Fiction,Philosophy
+29,Fiction,Literary Criticism
+30,Fiction,History
+31,Fiction,Science
+32,Fiction,Drama
+33,Fiction,Drama
+34,Fiction,Biography & Autobiography
+35,Fiction,Drama
+36,Fiction,Religion
+37,Fiction,Drama
+38,Fiction,Biography & Autobiography
+39,Fiction,Biography & Autobiography
+40,Fiction,Drama
+41,Fiction,Drama
+42,Fiction,Drama
+43,Fiction,History
+44,Fiction,History
+45,Fiction,Fiction
+46,Fiction,Juvenile Nonfiction
+47,Fiction,Drama
+48,Fiction,Fiction
+49,Fiction,Drama
+50,Fiction,Fiction
+51,Fiction,Drama
+52,Fiction,Fiction
+53,Fiction,Fiction
+54,Fiction,Drama
+55,Fiction,Fiction
+56,Fiction,Science
+57,Fiction,Fiction
+58,Fiction,Fiction
+59,Fiction,Drama
+60,Fiction,Fiction
+61,Fiction,Drama
+62,Fiction,Drama
+63,Fiction,Biography & Autobiography
+64,Fiction,Biography & Autobiography
+65,Fiction,History
+66,Fiction,Drama
+67,Fiction,Drama
+68,Fiction,Fiction
+69,Fiction,Fiction
+70,Fiction,Fiction
+71,Fiction,Poetry
+72,Fiction,Drama
+73,Fiction,Fiction
+74,Fiction,Biography & Autobiography
+75,Fiction,Drama
+76,Fiction,Biography & Autobiography
+77,Fiction,Fiction
+78,Fiction,Drama
+79,Fiction,Fiction
+80,Fiction,Religion
+81,Fiction,Biography & Autobiography
+82,Fiction,Biography & Autobiography
+83,Fiction,Biography & Autobiography
+84,Fiction,History
+85,Fiction,Philosophy
+86,Fiction,Literary Criticism
+87,Fiction,History
+88,Fiction,History
+89,Fiction,Fiction
+90,Fiction,Drama
+91,Fiction,Drama
+92,Fiction,Drama
+93,Fiction,Fiction
+94,Fiction,Drama
+95,Fiction,Fiction
+96,Fiction,Fiction
+97,Fiction,Fiction
+98,Fiction,Biography & Autobiography
+99,Fiction,History
+100,Fiction,Fiction
+101,Fiction,Religion
+102,Fiction,History
+103,Fiction,Fiction
+104,Fiction,Fiction
+105,Fiction,Literary Criticism
+106,Fiction,Fiction
+107,Fiction,Religion
+108,Fiction,Fiction
+109,Fiction,Fiction
+110,Fiction,Religion
+111,Fiction,History
+112,Fiction,Fiction
+113,Fiction,Fiction
+114,Fiction,Drama
+115,Fiction,Literary Criticism
+116,Fiction,Philosophy
+117,Fiction,Drama
+118,Fiction,Drama
+119,Fiction,Fiction
+120,Fiction,Drama
+121,Fiction,Fiction
+122,Fiction,Fiction
+123,Fiction,Biography & Autobiography
+124,Fiction,Fiction
+125,Fiction,Drama
+126,Fiction,Fiction
+127,Fiction,Fiction
+128,Fiction,Fiction
+129,Fiction,Fiction
+130,Fiction,Fiction
+131,Fiction,Fiction
+132,Fiction,Poetry
+133,Fiction,Drama
+134,Fiction,Biography & Autobiography
+135,Fiction,Biography & Autobiography
+136,Fiction,Fiction
+137,Fiction,Drama
+138,Fiction,Fiction
+139,Fiction,History
+140,Fiction,Drama
+141,Fiction,Biography & Autobiography
+142,Fiction,Biography & Autobiography
+143,Fiction,Fiction
+144,Fiction,Drama
+145,Fiction,Drama
+146,Fiction,Drama
+147,Fiction,Drama
+148,Fiction,Fiction
+149,Fiction,Drama
+150,Fiction,Drama
+151,Fiction,Drama
+152,Fiction,History
+153,Fiction,History
+154,Fiction,Biography & Autobiography
+155,Fiction,Poetry
+156,Fiction,Fiction
+157,Fiction,Drama
+158,Fiction,Fiction
+159,Fiction,Drama
+160,Fiction,Drama
+161,Fiction,Fiction
+162,Fiction,History
+163,Fiction,Biography & Autobiography
+164,Fiction,Biography & Autobiography
+165,Fiction,Fiction
+166,Fiction,Drama
+167,Fiction,Fiction
+168,Fiction,Fiction
+169,Fiction,Biography & Autobiography
+170,Fiction,Literary Criticism
+171,Fiction,Religion
+172,Fiction,Drama
+173,Fiction,History
+174,Fiction,Religion
+175,Fiction,Drama
+176,Fiction,Fiction
+177,Fiction,Drama
+178,Fiction,Literary Criticism
+179,Fiction,History
+180,Fiction,Fiction
+181,Fiction,Fiction
+182,Fiction,Biography & Autobiography
+183,Fiction,Literary Criticism
+184,Fiction,Drama
+185,Fiction,Biography & Autobiography
+186,Fiction,Biography & Autobiography
+187,Fiction,Fiction
+188,Fiction,Fiction
+189,Fiction,Fiction
+190,Fiction,Fiction
+191,Fiction,Drama
+192,Fiction,Drama
+193,Fiction,Biography & Autobiography
+194,Fiction,Fiction
+195,Fiction,Fiction
+196,Fiction,Fiction
+197,Fiction,Religion
+198,Fiction,Fiction
+199,Fiction,Drama
+200,Fiction,Fiction
+201,Fiction,Drama
+202,Fiction,Drama
+203,Fiction,Literary Criticism
+204,Fiction,Fiction
+205,Fiction,Poetry
+206,Fiction,Poetry
+207,Fiction,Biography & Autobiography
+208,Fiction,Fiction
+209,Fiction,Literary Criticism
+210,Fiction,Fiction
+211,Fiction,Drama
+212,Fiction,History
+213,Fiction,Fiction
+214,Fiction,Drama
+215,Fiction,Drama
+216,Fiction,Fiction
+217,Fiction,Biography & Autobiography
+218,Fiction,Fiction
+219,Fiction,Fiction
+220,Fiction,Fiction
+221,Fiction,Fiction
+222,Fiction,History
+223,Fiction,Biography & Autobiography
+224,Fiction,Biography & Autobiography
+225,Fiction,Drama
+226,Fiction,Drama
+227,Fiction,Fiction
+228,Fiction,Fiction
+229,Fiction,Drama
+230,Fiction,Drama
+231,Fiction,Fiction
+232,Fiction,Drama
+233,Fiction,History
+234,Fiction,Fiction
+235,Fiction,Fiction
+236,Fiction,Drama
+237,Fiction,History
+238,Fiction,Fiction
+239,Fiction,Fiction
+240,Fiction,Drama
+241,Fiction,Science
+242,Fiction,Fiction
+243,Fiction,Literary Criticism
+244,Fiction,Biography & Autobiography
+245,Fiction,History
+246,Fiction,Drama
+247,Fiction,History
+248,Fiction,History
+249,Fiction,Poetry
+250,Fiction,Fiction
+251,Fiction,Fiction
+252,Fiction,Fiction
+253,Fiction,History
+254,Fiction,Fiction
+255,Fiction,Fiction
+256,Fiction,Philosophy
+257,Fiction,Drama
+258,Fiction,History
+259,Fiction,Juvenile Nonfiction
+260,Fiction,Fiction
+261,Fiction,Biography & Autobiography
+262,Fiction,Fiction
+263,Fiction,Fiction
+264,Fiction,Biography & Autobiography
+265,Fiction,Literary Criticism
+266,Fiction,Literary Criticism
+267,Fiction,History
+268,Fiction,Literary Criticism
+269,Fiction,Fiction
+270,Fiction,Biography & Autobiography
+271,Fiction,Poetry
+272,Fiction,Fiction
+273,Fiction,Fiction
+274,Fiction,History
+275,Fiction,History
+276,Fiction,History
+277,Fiction,History
+278,Fiction,History
+279,Fiction,History
+280,Fiction,Fiction
+281,Fiction,Fiction
+282,Fiction,Fiction
+283,Fiction,History
+284,Fiction,Literary Criticism
+285,Fiction,History
+286,Fiction,Biography & Autobiography
+287,Fiction,Fiction
+288,Fiction,Drama
+289,Fiction,Fiction
+290,Fiction,Fiction
+291,Fiction,Fiction
+292,Fiction,Fiction
+293,Fiction,History
+294,Fiction,History
+295,Fiction,Fiction
+296,Fiction,Drama
+297,Fiction,Fiction
+298,Fiction,Drama
+299,Fiction,Biography & Autobiography
+300,History,History
+301,History,History
+302,History,History
+303,History,History
+304,History,History
+305,History,History
+306,History,Biography & Autobiography
+307,History,History
+308,History,Fiction
+309,History,Drama
+310,History,History
+311,History,History
+312,History,History
+313,History,History
+314,History,Biography & Autobiography
+315,History,History
+316,History,History
+317,History,History
+318,History,Biography & Autobiography
+319,History,History
+320,History,History
+321,History,Literary Criticism
+322,History,History
+323,History,History
+324,History,History
+325,History,Biography & Autobiography
+326,History,History
+327,History,History
+328,History,History
+329,History,History
+330,History,History
+331,History,Drama
+332,History,History
+333,History,Drama
+334,History,History
+335,History,History
+336,History,History
+337,History,Philosophy
+338,History,History
+339,History,Literary Criticism
+340,History,History
+341,History,History
+342,History,History
+343,History,History
+344,History,History
+345,History,History
+346,History,Drama
+347,History,Drama
+348,History,Drama
+349,History,History
+350,History,Biography & Autobiography
+351,History,History
+352,History,History
+353,History,History
+354,History,History
+355,History,Biography & Autobiography
+356,History,History
+357,History,History
+358,History,History
+359,History,History
+360,History,History
+361,History,History
+362,History,History
+363,History,History
+364,History,History
+365,History,History
+366,History,Science
+367,History,History
+368,History,History
+369,History,History
+370,History,History
+371,History,History
+372,History,History
+373,History,History
+374,History,Biography & Autobiography
+375,History,History
+376,History,History
+377,History,History
+378,History,Biography & Autobiography
+379,History,History
+380,History,History
+381,History,History
+382,History,History
+383,History,Biography & Autobiography
+384,History,Religion
+385,History,History
+386,History,History
+387,History,History
+388,History,History
+389,History,Drama
+390,History,History
+391,History,History
+392,History,History
+393,History,History
+394,History,Biography & Autobiography
+395,History,History
+396,History,History
+397,History,Philosophy
+398,History,Philosophy
+399,History,Philosophy
+400,Literary Criticism,Fiction
+401,Literary Criticism,Fiction
+402,Literary Criticism,History
+403,Literary Criticism,History
+404,Literary Criticism,History
+405,Literary Criticism,History
+406,Literary Criticism,History
+407,Literary Criticism,Biography & Autobiography
+408,Literary Criticism,Drama
+409,Literary Criticism,Philosophy
+410,Literary Criticism,Poetry
+411,Literary Criticism,Literary Criticism
+412,Literary Criticism,History
+413,Literary Criticism,Poetry
+414,Literary Criticism,Literary Criticism
+415,Literary Criticism,Literary Criticism
+416,Literary Criticism,Drama
+417,Literary Criticism,Poetry
+418,Literary Criticism,History
+419,Literary Criticism,Drama
+420,Literary Criticism,History
+421,Literary Criticism,History
+422,Literary Criticism,History
+423,Literary Criticism,Poetry
+424,Literary Criticism,History
+425,Literary Criticism,Science
+426,Literary Criticism,History
+427,Literary Criticism,Literary Criticism
+428,Literary Criticism,Science
+429,Literary Criticism,Literary Criticism
+430,Literary Criticism,Philosophy
+431,Literary Criticism,Literary Criticism
+432,Literary Criticism,History
+433,Literary Criticism,Fiction
+434,Literary Criticism,History
+435,Literary Criticism,History
+436,Literary Criticism,Biography & Autobiography
+437,Literary Criticism,Literary Criticism
+438,Literary Criticism,Literary Criticism
+439,Literary Criticism,Literary Criticism
+440,Literary Criticism,Literary Criticism
+441,Literary Criticism,Philosophy
+442,Literary Criticism,Literary Criticism
+443,Literary Criticism,Literary Criticism
+444,Literary Criticism,Fiction
+445,Literary Criticism,Biography & Autobiography
+446,Literary Criticism,History
+447,Literary Criticism,History
+448,Literary Criticism,Literary Criticism
+449,Literary Criticism,History
+450,Literary Criticism,History
+451,Literary Criticism,Literary Criticism
+452,Literary Criticism,Philosophy
+453,Literary Criticism,Religion
+454,Literary Criticism,Poetry
+455,Literary Criticism,Literary Criticism
+456,Literary Criticism,Poetry
+457,Literary Criticism,Biography & Autobiography
+458,Literary Criticism,Biography & Autobiography
+459,Literary Criticism,Literary Criticism
+460,Literary Criticism,Philosophy
+461,Literary Criticism,Drama
+462,Literary Criticism,Poetry
+463,Literary Criticism,Literary Criticism
+464,Literary Criticism,Fiction
+465,Literary Criticism,Literary Criticism
+466,Literary Criticism,Literary Criticism
+467,Literary Criticism,Literary Criticism
+468,Literary Criticism,Literary Criticism
+469,Literary Criticism,Literary Criticism
+470,Literary Criticism,Literary Criticism
+471,Literary Criticism,Literary Criticism
+472,Literary Criticism,Literary Criticism
+473,Literary Criticism,History
+474,Literary Criticism,History
+475,Literary Criticism,Religion
+476,Literary Criticism,Poetry
+477,Literary Criticism,Literary Criticism
+478,Literary Criticism,Poetry
+479,Literary Criticism,Poetry
+480,Biography & Autobiography,History
+481,Biography & Autobiography,History
+482,Biography & Autobiography,History
+483,Biography & Autobiography,Poetry
+484,Biography & Autobiography,Biography & Autobiography
+485,Biography & Autobiography,Biography & Autobiography
+486,Biography & Autobiography,Biography & Autobiography
+487,Biography & Autobiography,History
+488,Biography & Autobiography,Drama
+489,Biography & Autobiography,History
+490,Biography & Autobiography,Biography & Autobiography
+491,Biography & Autobiography,History
+492,Biography & Autobiography,Fiction
+493,Biography & Autobiography,History
+494,Biography & Autobiography,History
+495,Biography & Autobiography,History
+496,Biography & Autobiography,History
+497,Biography & Autobiography,Poetry
+498,Biography & Autobiography,History
+499,Biography & Autobiography,Biography & Autobiography
+500,Biography & Autobiography,Biography & Autobiography
+501,Biography & Autobiography,Biography & Autobiography
+502,Biography & Autobiography,Biography & Autobiography
+503,Biography & Autobiography,History
+504,Biography & Autobiography,Biography & Autobiography
+505,Biography & Autobiography,Biography & Autobiography
+506,Biography & Autobiography,Biography & Autobiography
+507,Biography & Autobiography,Biography & Autobiography
+508,Biography & Autobiography,History
+509,Biography & Autobiography,Religion
+510,Biography & Autobiography,Literary Criticism
+511,Biography & Autobiography,Biography & Autobiography
+512,Biography & Autobiography,Drama
+513,Biography & Autobiography,Biography & Autobiography
+514,Biography & Autobiography,Philosophy
+515,Biography & Autobiography,History
+516,Biography & Autobiography,Biography & Autobiography
+517,Biography & Autobiography,History
+518,Biography & Autobiography,History
+519,Biography & Autobiography,Literary Criticism
+520,Biography & Autobiography,History
+521,Biography & Autobiography,Biography & Autobiography
+522,Biography & Autobiography,Science
+523,Biography & Autobiography,Biography & Autobiography
+524,Biography & Autobiography,History
+525,Biography & Autobiography,Biography & Autobiography
+526,Biography & Autobiography,Biography & Autobiography
+527,Biography & Autobiography,Religion
+528,Biography & Autobiography,Biography & Autobiography
+529,Biography & Autobiography,Biography & Autobiography
+530,Biography & Autobiography,History
+531,Biography & Autobiography,Biography & Autobiography
+532,Biography & Autobiography,Biography & Autobiography
+533,Biography & Autobiography,History
+534,Biography & Autobiography,Biography & Autobiography
+535,Biography & Autobiography,Biography & Autobiography
+536,Biography & Autobiography,Biography & Autobiography
+537,Biography & Autobiography,Biography & Autobiography
+538,Biography & Autobiography,Biography & Autobiography
+539,Biography & Autobiography,History
+540,Biography & Autobiography,History
+541,Biography & Autobiography,Biography & Autobiography
+542,Biography & Autobiography,Biography & Autobiography
+543,Biography & Autobiography,Fiction
+544,Biography & Autobiography,History
+545,Biography & Autobiography,Juvenile Nonfiction
+546,Biography & Autobiography,Religion
+547,Biography & Autobiography,History
+548,Biography & Autobiography,History
+549,Biography & Autobiography,History
+550,Biography & Autobiography,History
+551,Biography & Autobiography,History
+552,Biography & Autobiography,Literary Criticism
+553,Biography & Autobiography,History
+554,Biography & Autobiography,History
+555,Biography & Autobiography,Biography & Autobiography
+556,Biography & Autobiography,Biography & Autobiography
+557,Biography & Autobiography,Biography & Autobiography
+558,Biography & Autobiography,Biography & Autobiography
+559,Biography & Autobiography,Biography & Autobiography
+560,Biography & Autobiography,History
+561,Biography & Autobiography,Science
+562,Biography & Autobiography,Biography & Autobiography
+563,Biography & Autobiography,Biography & Autobiography
+564,Biography & Autobiography,Biography & Autobiography
+565,Biography & Autobiography,History
+566,Biography & Autobiography,Biography & Autobiography
+567,Biography & Autobiography,Biography & Autobiography
+568,Biography & Autobiography,History
+569,Biography & Autobiography,Biography & Autobiography
+570,Biography & Autobiography,Biography & Autobiography
+571,Biography & Autobiography,Biography & Autobiography
+572,Biography & Autobiography,Biography & Autobiography
+573,Biography & Autobiography,History
+574,Biography & Autobiography,History
+575,Biography & Autobiography,Biography & Autobiography
+576,Biography & Autobiography,History
+577,Biography & Autobiography,Biography & Autobiography
+578,Biography & Autobiography,History
+579,Biography & Autobiography,History
+580,Drama,Drama
+581,Drama,Drama
+582,Drama,Literary Criticism
+583,Drama,Drama
+584,Drama,Drama
+585,Drama,Drama
+586,Drama,Drama
+587,Drama,Drama
+588,Drama,Philosophy
+589,Drama,Drama
+590,Drama,Drama
+591,Drama,History
+592,Drama,Drama
+593,Drama,Drama
+594,Drama,Literary Criticism
+595,Drama,Literary Criticism
+596,Drama,Religion
+597,Drama,History
+598,Drama,History
+599,Drama,Literary Criticism
+600,Drama,History
+601,Drama,Literary Criticism
+602,Drama,Literary Criticism
+603,Drama,Literary Criticism
+604,Drama,Drama
+605,Drama,History
+606,Drama,Drama
+607,Drama,Fiction
+608,Drama,History
+609,Drama,Drama
+610,Drama,Fiction
+611,Drama,History
+612,Drama,Drama
+613,Drama,Literary Criticism
+614,Drama,Literary Criticism
+615,Drama,History
+616,Drama,Fiction
+617,Drama,Poetry
+618,Drama,Literary Criticism
+619,Drama,Drama
+620,Drama,Drama
+621,Drama,Drama
+622,Drama,Literary Criticism
+623,Drama,Drama
+624,Drama,Literary Criticism
+625,Drama,History
+626,Drama,Drama
+627,Drama,History
+628,Drama,Biography & Autobiography
+629,Drama,Drama
+630,Philosophy,Philosophy
+631,Philosophy,Biography & Autobiography
+632,Philosophy,Philosophy
+633,Philosophy,History
+634,Philosophy,Biography & Autobiography
+635,Philosophy,Philosophy
+636,Philosophy,History
+637,Philosophy,Religion
+638,Philosophy,Philosophy
+639,Philosophy,Philosophy
+640,Philosophy,Philosophy
+641,Philosophy,Philosophy
+642,Philosophy,Philosophy
+643,Philosophy,Philosophy
+644,Philosophy,Science
+645,Philosophy,History
+646,Philosophy,Philosophy
+647,Philosophy,Philosophy
+648,Philosophy,Philosophy
+649,Philosophy,Philosophy
+650,Philosophy,Philosophy
+651,Philosophy,Philosophy
+652,Philosophy,Philosophy
+653,Philosophy,Philosophy
+654,Philosophy,Philosophy
+655,Philosophy,Philosophy
+656,Philosophy,Philosophy
+657,Philosophy,Philosophy
+658,Philosophy,History
+659,Philosophy,Philosophy
+660,Philosophy,Philosophy
+661,Philosophy,Philosophy
+662,Philosophy,Religion
+663,Philosophy,Religion
+664,Philosophy,Philosophy
+665,Philosophy,Science
+666,Philosophy,Biography & Autobiography
+667,Philosophy,Religion
+668,Philosophy,Biography & Autobiography
+669,Philosophy,Poetry
+670,Philosophy,Religion
+671,Philosophy,History
+672,Philosophy,Philosophy
+673,Philosophy,Philosophy
+674,Philosophy,Philosophy
+675,Philosophy,Philosophy
+676,Philosophy,Philosophy
+677,Philosophy,Philosophy
+678,Philosophy,History
+679,Philosophy,Drama
+680,Philosophy,Philosophy
+681,Philosophy,History
+682,Philosophy,History
+683,Philosophy,Philosophy
+684,Philosophy,Philosophy
+685,Philosophy,Philosophy
+686,Philosophy,Philosophy
+687,Philosophy,Fiction
+688,Philosophy,History
+689,Philosophy,Philosophy
+690,Philosophy,Philosophy
+691,Philosophy,Philosophy
+692,Philosophy,Philosophy
+693,Philosophy,History
+694,Philosophy,Philosophy
+695,Philosophy,Philosophy
+696,Philosophy,Philosophy
+697,Philosophy,Religion
+698,Philosophy,Philosophy
+699,Philosophy,Philosophy
+700,Religion,Religion
+701,Religion,History
+702,Religion,History
+703,Religion,Religion
+704,Religion,Religion
+705,Religion,Drama
+706,Religion,Religion
+707,Religion,History
+708,Religion,Religion
+709,Religion,History
+710,Religion,Biography & Autobiography
+711,Religion,Religion
+712,Religion,Philosophy
+713,Religion,Religion
+714,Religion,Religion
+715,Religion,History
+716,Religion,History
+717,Religion,Religion
+718,Religion,History
+719,Religion,History
+720,Religion,Religion
+721,Religion,History
+722,Religion,History
+723,Religion,Religion
+724,Religion,Religion
+725,Religion,Biography & Autobiography
+726,Religion,Religion
+727,Religion,Poetry
+728,Religion,Biography & Autobiography
+729,Religion,History
+730,Religion,Religion
+731,Religion,Religion
+732,Religion,History
+733,Religion,Religion
+734,Religion,Religion
+735,Religion,History
+736,Religion,Religion
+737,Religion,History
+738,Religion,Philosophy
+739,Religion,Biography & Autobiography
+740,Religion,Religion
+741,Religion,Religion
+742,Religion,Science
+743,Religion,History
+744,Religion,History
+745,Religion,Religion
+746,Religion,Religion
+747,Religion,Religion
+748,Religion,Biography & Autobiography
+749,Religion,Religion
+750,Science,History
+751,Science,Science
+752,Science,Science
+753,Science,Science
+754,Science,Science
+755,Science,Science
+756,Science,Science
+757,Science,Science
+758,Science,Science
+759,Science,History
+760,Science,Science
+761,Science,History
+762,Science,Science
+763,Science,Science
+764,Science,Science
+765,Science,Science
+766,Science,Science
+767,Science,Science
+768,Science,Science
+769,Science,Science
+770,Science,History
+771,Science,Science
+772,Science,Science
+773,Science,Science
+774,Science,Science
+775,Science,Biography & Autobiography
+776,Science,Fiction
+777,Science,Science
+778,Science,Science
+779,Science,Science
+780,Science,Science
+781,Science,Science
+782,Science,History
+783,Science,Science
+784,Science,Poetry
+785,Science,Science
+786,Science,Science
+787,Science,History
+788,Science,Science
+789,Science,Science
+790,Science,History
+791,Science,Science
+792,Science,Science
+793,Science,Science
+794,Science,Science
+795,Science,Science
+796,Science,Juvenile Nonfiction
+797,Science,Science
+798,Science,Science
+799,Science,Science
+800,Poetry,History
+801,Poetry,Poetry
+802,Poetry,Poetry
+803,Poetry,Religion
+804,Poetry,Religion
+805,Poetry,Poetry
+806,Poetry,Religion
+807,Poetry,Poetry
+808,Poetry,Poetry
+809,Poetry,Poetry
+810,Poetry,Poetry
+811,Poetry,Poetry
+812,Poetry,Poetry
+813,Poetry,Poetry
+814,Poetry,Poetry
+815,Poetry,Poetry
+816,Poetry,Poetry
+817,Poetry,Poetry
+818,Poetry,Poetry
+819,Poetry,Poetry
+820,Poetry,Poetry
+821,Poetry,Poetry
+822,Poetry,Poetry
+823,Poetry,Literary Criticism
+824,Poetry,Poetry
+825,Poetry,Poetry
+826,Poetry,Poetry
+827,Poetry,Poetry
+828,Poetry,Poetry
+829,Poetry,Poetry
+830,Poetry,Drama
+831,Poetry,Poetry
+832,Poetry,Poetry
+833,Poetry,Poetry
+834,Poetry,Poetry
+835,Poetry,Poetry
+836,Poetry,Fiction
+837,Poetry,Poetry
+838,Poetry,Poetry
+839,Poetry,Poetry
+840,Poetry,Poetry
+841,Poetry,Poetry
+842,Poetry,Poetry
+843,Poetry,Poetry
+844,Poetry,Poetry
+845,Poetry,Poetry
+846,Poetry,Poetry
+847,Poetry,Poetry
+848,Poetry,History
+849,Poetry,Poetry
+850,Juvenile Fiction,Fiction
+851,Juvenile Fiction,History
+852,Juvenile Fiction,Juvenile Nonfiction
+853,Juvenile Fiction,Drama
+854,Juvenile Fiction,Biography & Autobiography
+855,Juvenile Fiction,History
+856,Juvenile Fiction,Fiction
+857,Juvenile Fiction,Fiction
+858,Juvenile Fiction,Fiction
+859,Juvenile Fiction,Drama
+860,Juvenile Fiction,Fiction
+861,Juvenile Fiction,History
+862,Juvenile Fiction,Juvenile Nonfiction
+863,Juvenile Fiction,Fiction
+864,Juvenile Fiction,Drama
+865,Juvenile Fiction,History
+866,Juvenile Fiction,Juvenile Nonfiction
+867,Juvenile Fiction,Juvenile Fiction
+868,Juvenile Fiction,Biography & Autobiography
+869,Juvenile Fiction,Drama
+870,Juvenile Fiction,History
+871,Juvenile Fiction,Drama
+872,Juvenile Fiction,History
+873,Juvenile Fiction,Drama
+874,Juvenile Fiction,Biography & Autobiography
+875,Juvenile Fiction,History
+876,Juvenile Fiction,Drama
+877,Juvenile Fiction,Drama
+878,Juvenile Fiction,Drama
+879,Juvenile Fiction,Fiction
+880,Juvenile Fiction,Biography & Autobiography
+881,Juvenile Fiction,Drama
+882,Juvenile Fiction,Poetry
+883,Juvenile Fiction,Juvenile Fiction
+884,Juvenile Fiction,Juvenile Nonfiction
+885,Juvenile Fiction,Juvenile Nonfiction
+886,Juvenile Fiction,History
+887,Juvenile Fiction,Juvenile Fiction
+888,Juvenile Fiction,History
+889,Juvenile Fiction,Fiction
+890,Juvenile Fiction,Fiction
+891,Juvenile Fiction,History
+892,Juvenile Fiction,Biography & Autobiography
+893,Juvenile Fiction,Religion
+894,Juvenile Fiction,Science
+895,Juvenile Fiction,Drama
+896,Juvenile Fiction,Fiction
+897,Juvenile Fiction,Literary Criticism
+898,Juvenile Fiction,History
+899,Juvenile Fiction,History
+900,Juvenile Fiction,History
+901,Juvenile Fiction,History
+902,Juvenile Fiction,Drama
+903,Juvenile Fiction,Drama
+904,Juvenile Fiction,Juvenile Fiction
+905,Juvenile Fiction,Drama
+906,Juvenile Fiction,History
+907,Juvenile Fiction,Biography & Autobiography
+908,Juvenile Fiction,History
+909,Juvenile Fiction,Biography & Autobiography
+910,Juvenile Fiction,Juvenile Nonfiction
+911,Juvenile Fiction,Biography & Autobiography
+912,Juvenile Fiction,Biography & Autobiography
+913,Juvenile Fiction,Fiction
+914,Juvenile Fiction,Fiction
+915,Juvenile Fiction,History
+916,Juvenile Fiction,Fiction
+917,Juvenile Fiction,History
+918,Juvenile Fiction,History
+919,Juvenile Fiction,Juvenile Nonfiction
+920,Juvenile Fiction,History
+921,Juvenile Fiction,Biography & Autobiography
+922,Juvenile Fiction,Fiction
+923,Juvenile Fiction,History
+924,Juvenile Fiction,Biography & Autobiography
+925,Juvenile Fiction,Drama
+926,Juvenile Fiction,Drama
+927,Juvenile Fiction,Science
+928,Juvenile Fiction,Fiction
+929,Juvenile Fiction,Drama
+930,Juvenile Fiction,Fiction
+931,Juvenile Fiction,Biography & Autobiography
+932,Juvenile Fiction,Drama
+933,Juvenile Fiction,Biography & Autobiography
+934,Juvenile Fiction,Juvenile Fiction
+935,Juvenile Fiction,Juvenile Nonfiction
+936,Juvenile Fiction,Drama
+937,Juvenile Fiction,Fiction
+938,Juvenile Fiction,Biography & Autobiography
+939,Juvenile Fiction,Fiction
+940,Juvenile Fiction,Science
+941,Juvenile Fiction,Fiction
+942,Juvenile Fiction,Fiction
+943,Juvenile Fiction,Drama
+944,Juvenile Fiction,Juvenile Fiction
+945,Juvenile Fiction,Biography & Autobiography
+946,Juvenile Fiction,Drama
+947,Juvenile Fiction,Juvenile Fiction
+948,Juvenile Fiction,History
+949,Juvenile Fiction,Biography & Autobiography
+950,Juvenile Fiction,History
+951,Juvenile Fiction,Juvenile Nonfiction
+952,Juvenile Fiction,History
+953,Juvenile Fiction,Biography & Autobiography
+954,Juvenile Fiction,Fiction
+955,Juvenile Fiction,History
+956,Juvenile Fiction,Biography & Autobiography
+957,Juvenile Fiction,Fiction
+958,Juvenile Fiction,Fiction
+959,Juvenile Fiction,Juvenile Fiction
+960,Juvenile Fiction,Biography & Autobiography
+961,Juvenile Fiction,Drama
+962,Juvenile Fiction,Drama
+963,Juvenile Fiction,Biography & Autobiography
+964,Juvenile Fiction,Fiction
+965,Juvenile Fiction,Biography & Autobiography
+966,Juvenile Fiction,Fiction
+967,Juvenile Fiction,Juvenile Fiction
+968,Juvenile Fiction,Drama
+969,Juvenile Fiction,Juvenile Fiction
+970,Juvenile Fiction,Drama
+971,Juvenile Fiction,Fiction
+972,Juvenile Fiction,Drama
+973,Juvenile Fiction,Fiction
+974,Juvenile Fiction,Juvenile Nonfiction
+975,Juvenile Fiction,Biography & Autobiography
+976,Juvenile Fiction,Drama
+977,Juvenile Fiction,Biography & Autobiography
+978,Juvenile Fiction,Juvenile Nonfiction
+979,Juvenile Fiction,History
+980,Juvenile Fiction,Drama
+981,Juvenile Fiction,Fiction
+982,Juvenile Fiction,Biography & Autobiography
+983,Juvenile Fiction,Juvenile Fiction
+984,Juvenile Fiction,Fiction
+985,Juvenile Fiction,Juvenile Nonfiction
+986,Juvenile Fiction,Biography & Autobiography
+987,Juvenile Fiction,Fiction
+988,Juvenile Fiction,Juvenile Fiction
+989,Juvenile Fiction,Biography & Autobiography
+990,Juvenile Fiction,Science
+991,Juvenile Fiction,Biography & Autobiography
+992,Juvenile Fiction,Fiction
+993,Juvenile Fiction,Science
+994,Juvenile Fiction,Drama
+995,Juvenile Fiction,Drama
+996,Juvenile Fiction,Drama
+997,Juvenile Fiction,Drama
+998,Juvenile Fiction,Drama
+999,Juvenile Fiction,Drama
+1000,Juvenile Nonfiction,History
+1001,Juvenile Nonfiction,History
+1002,Juvenile Nonfiction,Science
+1003,Juvenile Nonfiction,Juvenile Fiction
+1004,Juvenile Nonfiction,History
+1005,Juvenile Nonfiction,History
+1006,Juvenile Nonfiction,Fiction
+1007,Juvenile Nonfiction,Poetry
+1008,Juvenile Nonfiction,Fiction
+1009,Juvenile Nonfiction,Drama
+1010,Juvenile Nonfiction,History
+1011,Juvenile Nonfiction,Fiction
+1012,Juvenile Nonfiction,Science
+1013,Juvenile Nonfiction,History
+1014,Juvenile Nonfiction,History
+1015,Juvenile Nonfiction,History
+1016,Juvenile Nonfiction,History
+1017,Juvenile Nonfiction,Drama
+1018,Juvenile Nonfiction,Poetry
+1019,Juvenile Nonfiction,History
+1020,Juvenile Nonfiction,History
+1021,Juvenile Nonfiction,History
+1022,Juvenile Nonfiction,History
+1023,Juvenile Nonfiction,Juvenile Nonfiction
+1024,Juvenile Nonfiction,History
+1025,Juvenile Nonfiction,History
+1026,Juvenile Nonfiction,Science
+1027,Juvenile Nonfiction,Juvenile Fiction
+1028,Juvenile Nonfiction,Science
+1029,Juvenile Nonfiction,Science
+1030,Juvenile Nonfiction,History
+1031,Juvenile Nonfiction,Poetry
+1032,Juvenile Nonfiction,Juvenile Nonfiction
+1033,Juvenile Nonfiction,Drama
+1034,Juvenile Nonfiction,Fiction
+1035,Juvenile Nonfiction,Drama
+1036,Juvenile Nonfiction,Literary Criticism
+1037,Juvenile Nonfiction,Biography & Autobiography
+1038,Juvenile Nonfiction,History
+1039,Juvenile Nonfiction,Science
+1040,Juvenile Nonfiction,Comics & Graphic Novels
+1041,Juvenile Nonfiction,History
+1042,Juvenile Nonfiction,Science
+1043,Juvenile Nonfiction,Literary Criticism
+1044,Juvenile Nonfiction,Fiction
+1045,Juvenile Nonfiction,History
+1046,Juvenile Nonfiction,Poetry
+1047,Juvenile Nonfiction,History
+1048,Juvenile Nonfiction,Poetry
+1049,Juvenile Nonfiction,History
+1050,Comics & Graphic Novels,Comics & Graphic Novels
+1051,Comics & Graphic Novels,History
+1052,Comics & Graphic Novels,Fiction
+1053,Comics & Graphic Novels,Science
+1054,Comics & Graphic Novels,Drama
+1055,Comics & Graphic Novels,Drama
+1056,Comics & Graphic Novels,Drama
+1057,Comics & Graphic Novels,Drama
+1058,Comics & Graphic Novels,Drama
+1059,Comics & Graphic Novels,History
+1060,Comics & Graphic Novels,Drama
+1061,Comics & Graphic Novels,Fiction
+1062,Comics & Graphic Novels,History
+1063,Comics & Graphic Novels,Drama
+1064,Comics & Graphic Novels,Drama
+1065,Comics & Graphic Novels,Fiction
+1066,Comics & Graphic Novels,Drama
+1067,Comics & Graphic Novels,Drama
+1068,Comics & Graphic Novels,Comics & Graphic Novels
+1069,Comics & Graphic Novels,History
+1070,Comics & Graphic Novels,History
+1071,Comics & Graphic Novels,Drama
+1072,Comics & Graphic Novels,Fiction
+1073,Comics & Graphic Novels,Comics & Graphic Novels
+1074,Comics & Graphic Novels,Comics & Graphic Novels
+1075,Comics & Graphic Novels,Biography & Autobiography
+1076,Comics & Graphic Novels,Biography & Autobiography
+1077,Comics & Graphic Novels,Drama
+1078,Comics & Graphic Novels,Biography & Autobiography
+1079,Comics & Graphic Novels,Drama
+1080,Comics & Graphic Novels,Biography & Autobiography
+1081,Comics & Graphic Novels,Drama
+1082,Comics & Graphic Novels,Philosophy
+1083,Comics & Graphic Novels,History
+1084,Comics & Graphic Novels,Drama
+1085,Comics & Graphic Novels,Biography & Autobiography
+1086,Comics & Graphic Novels,Philosophy
+1087,Comics & Graphic Novels,Drama
+1088,Comics & Graphic Novels,Fiction
+1089,Comics & Graphic Novels,History
+1090,Comics & Graphic Novels,Drama
+1091,Comics & Graphic Novels,Biography & Autobiography
+1092,Comics & Graphic Novels,Fiction
+1093,Comics & Graphic Novels,Biography & Autobiography
+1094,Comics & Graphic Novels,Philosophy
+1095,Comics & Graphic Novels,Fiction
+1096,Comics & Graphic Novels,Biography & Autobiography
+1097,Comics & Graphic Novels,Biography & Autobiography
+1098,Comics & Graphic Novels,Fiction
+1099,Comics & Graphic Novels,Comics & Graphic Novels
