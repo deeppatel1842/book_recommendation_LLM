@@ -1,57 +1,67 @@
 # 📚 Semantic Book Recommendation with LLMs
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+A smart book recommendation system that understands the **semantic meaning** and **emotional context** of your input using Large Language Models (LLMs).
 
-A smart book recommendation system that understands the semantic meaning and emotional context of your input using Large Language Models (LLMs).
+![Demo Screenshot](images/output.png)
 
-![Demo Screenshot](images/demo_screenshot.png)
+---
 
 ## 🔧 Getting Started
 
-### Prerequisites
-- Python 3.8+
-- pip package manager
+### 📦 Prerequisites
 
-### Installation
+- Python 3.8+
+- pip (Python package manager)
+
+### ⚙️ Installation
 
 1. **Clone the repository**
-bash
+
+```bash
 git clone git@github.com:deeppatel1842/book_recommendation_LLM.git
 cd book_recommendation_LLM
+```
 
-Install dependencies
+2. **Install dependencies**
 
-bash
+```bash
 pip install -r requirements.txt
+```
 
-💡 Features
-Semantic understanding of book descriptions
+---
 
-Emotion-aware recommendations
+## 💡 Features
 
-Interactive Gradio interface
+- Semantic understanding of book descriptions  
+- Emotion-aware recommendations  
+- Interactive Gradio interface  
 
-🧠 Technical Architecture
-Core Components
-Semantic Search
-sentence-transformers/all-MiniLM-L6-v2 for text embeddings
+---
 
-Sentiment Analysis
-j-hartmann/emotion-english-distilroberta-base for emotional context extraction
+## 🧠 Technical Architecture
 
-Data Flow
-User input processing
+### 🔍 Core Components
 
-Embedding generation
+- **Semantic Search**:  
+  Uses `sentence-transformers/all-MiniLM-L6-v2` for generating text embeddings.
 
-Similarity matching
+- **Sentiment Analysis**:  
+  Uses `j-hartmann/emotion-english-distilroberta-base` for extracting emotional context.
 
-Emotion-based filtering
+### 🔄 Data Flow
 
-Recommendation generation
+1. User input processing  
+2. Embedding generation  
+3. Similarity matching  
+4. Emotion-based filtering  
+5. Final recommendation generation  
 
-🚀 Usage
-Running the Application
-bash
+---
+
+## 🚀 Usage
+
+### ▶️ Running the Application
+
+```bash
 python gradio_dashboard.py
-
+```
